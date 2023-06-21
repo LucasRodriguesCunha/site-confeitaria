@@ -3,7 +3,7 @@
 
 html {
 	font-family: 'Pacifico', cursive;
-	color: #373A3C;
+	color: #373a3c;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 }
 
 #sidebar h1 {
-	color: #FFF;
+	color: #fff;
 	font-size: 40px;
 	text-align: center;
 	margin-top: 20px;
@@ -27,13 +27,13 @@ a {
 }
 
 #sidebar a {
-	color: #FFF;
+	color: #fff;
 	text-decoration: none;
 	font-size: 16px;
 }
 
 #sidebar a:hover {
-	color: #F4EF5E;
+	color: pink;
 }
 
 #sidebar li {
@@ -133,7 +133,7 @@ section {
 
 .sessao-bemvindo-btn, form input[type=submit] {
 	background-color: #006599;
-	color: #FFF;
+	color: #fff;
 	text-decoration: none;
 	padding: 20px 40px;
 	transition: .5s;
